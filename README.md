@@ -1,0 +1,2 @@
+# WrappedKittiesViewer
+CryptoKittiesをラップしたERC20通貨・WCKの簡易ビューア
