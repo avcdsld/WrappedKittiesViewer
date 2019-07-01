@@ -1,7 +1,11 @@
 # WrappedKitties Viewer
+
 CryptoKittiesをラップしたERC20トークン・WCKの簡易ビューア
 
 https://wrappedkittiesviewer.firebaseapp.com/
+
+![screenshot](https://user-images.githubusercontent.com/10495516/60405207-af2a9700-9be9-11e9-8222-91a5c5ec3bf8.png)
+
 
 ## モチベーション
 * CryptoKitties を担保にした ERC20 トークン・WCK の [コントラクトコード](https://etherscan.io/address/0x09fe5f0236f0ea5d930197dce254d77b04128075#contracts) を読んでいるとじわじわ面白いので、できるだけリアルタイムのネコの状況を可視化してみようと思いました。
